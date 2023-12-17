@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131407924782",
+    "project_id": "chatequipemaroc-19b3d",
+    "storage_bucket": "chatequipemaroc-19b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131407924782:android:f91542bef78053754819bf",
+        "android_client_info": {
+          "package_name": "com.example.chatequipemaroc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVZMMIMV94Q9rG2kgEOsRb2RwhRrFFDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
